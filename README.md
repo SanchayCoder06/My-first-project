@@ -1,2 +1,2 @@
 # My-first-project
-Netflix clone using HTML-CSS (First Project)
+Netflix Preview Page clone using HTML-CSS (First Project)
